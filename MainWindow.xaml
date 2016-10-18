@@ -1,0 +1,10 @@
+﻿<Window x:Class="hpet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="140" Width="258">
+    <Grid Height="100" Width="233">
+        <GroupBox Header="QueryPerformanceFrequency" Height="70" HorizontalAlignment="Left" Margin="12,12,0,0" Name="groupBox1" VerticalAlignment="Top" Width="206">
+            <Label Content="Label" Height="28" Name="label1" />
+        </GroupBox>
+    </Grid>
+</Window>
